@@ -7,5 +7,6 @@ namespace MondayLesson.Models
 {
     public class Order
     {
+        public int MyProperty { get; set; }
     }
 }

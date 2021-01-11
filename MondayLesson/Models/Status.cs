@@ -8,5 +8,7 @@ namespace MondayLesson.Models
     public class Status
     {
         public int MyProperty { get; set; }
+
+        public string Name { get; set; }
     }
 }

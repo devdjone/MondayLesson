@@ -7,5 +7,6 @@ namespace MondayLesson.Models
 {
     public class Status
     {
+        public int MyProperty { get; set; }
     }
 }

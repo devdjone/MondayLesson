@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using webapiLearn;
+
 
 namespace MondayLesson.Models
 {
@@ -11,5 +13,8 @@ namespace MondayLesson.Models
         public string Name { get; set; }
         public decimal Price { get; set; }
         public int Size { get; set; }
+
+        
+         
     }
 }

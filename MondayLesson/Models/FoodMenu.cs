@@ -11,5 +11,9 @@ namespace MondayLesson.Models
         public string Name { get; set; }
         public decimal Price { get; set; }
         public int Size { get; set; }
+
+        public int Calories { get; set; }
+
+        public int Grams { get; set; }
     }
 }

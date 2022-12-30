@@ -7,5 +7,6 @@ namespace MondayLesson.Models
 {
     public class Customer
     {
+        string FirstName {get;set;}
     }
 }
